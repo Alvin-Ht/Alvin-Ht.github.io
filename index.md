@@ -1,0 +1,482 @@
+- biological molecules
+    - saccharides
+        - monosaccharides
+            - functional groups
+                - types>>>
+                    - ketone
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/pr1nV0OERh0Q_nHCU8zYsw14gfdHRUX44jUGoqUgNx6N3xTxCKYKLO5G7HiLZ1gaDlX_ebzK8nbXflPiSitFgQLiAdMSYU3ugXka7fewMR6saJpR0XJsSwdDH6F4t7RH.png)
+                    - aldehyde
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/GjM3Sltb7ItkfFKF6QdF9mLi9zPttSFsd5GySGz0MwteeiJDJTiCOGJkvmhpJ_MliR4N0uDaRDrIAljkGIaxSyIUs-SUYYLmo_uR8byj28m-s25zFfXeEevVULc1Z7cq.png)
+                - properties→reducing agents
+            - examples>>>
+                - glucose
+                    - isomers>>>
+                        - $\alpha$ glucose
+                            - structure→2 side OH group below plane
+                                - diagram>>>
+                                    - ![](https://remnote-user-data.s3.amazonaws.com/daAVQ3po5nS1P72jTTt5GaXXxjzA6yT8rV0klCKkejFrwuvdbMrk-dXIjojp7OPXz9NsCJuCuIcMUtj_lSYH84-BmmDOr3K-SvhuB1HKHVEGh5lCby_FXeMZqGc68QJp.png)
+                        - $\beta$ glucose
+                            - structure→side OH group above and below plane
+                                - diagram>>>
+                                    - ![](https://remnote-user-data.s3.amazonaws.com/W-XUPu162-MZFr1eYJqnRcKIiy7AsDwavd7J7gjE_5WE_nmrls3pgwkOSpWMi9q6EyI6oDIiI5irPH5VLicQa3bpfqcJIqCzPh-MB4WLUpWegdI49n8aLuNQ16xDWKpv.png)
+                - fructose
+                    - isomers>>>
+                        - $\beta$ fructose
+                            - diagram→![](https://remnote-user-data.s3.amazonaws.com/ewvY3Pu_unFTP6xw6DnDfJ8ihcj7iKF66NFcbAU18RZeb5bcouCiexDdYDnGYw0USKcvfCoZ_fDWjVzm4UxEEyczMSZp4dxEw8IybGGo3-bDD-7WZh8XIh6cxg0LSJZD.png)
+                - galactose
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/Z20lJneGTlZsm4OSXoyo9v6eMrT8cvbpPDphRALbbyokJ7Tj8cqvmmqJ1xU1ckC1z5CFFKwD6gkZK7Ge5mcPoBBnkBDHhepuCsJZtUPwb2fK-qaGB9Yf2qBZQoBaE5lp.png)
+        - disaccharides
+            - examples>>>
+                - maltose
+                    - formation
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/BI2NLgqbhsJJCpj4sKMeO2rjKaWoeIsgJQwzgxvZlMBK5btvA-ShreXZwTY8YjyUtjX4VJoYkfE-c3E7uN_BIhSAptEcAsvOgPU3KpANk3dRFOkqmClOvewA8WVySMvp.png)
+                    - precursor of→starch
+                    - consists of→two $\alpha$ glucose
+                    - bonds→$\alpha$ 1 4 glycosidic bond
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/aTpxr12_13pWRjyq4RABT-BVPJEOQflxr1OSGiks4B3lP22au3JAUE6QrDvOxIul7QTrOzrgWPhc0V5WkA8OD7iRmzWlSdhpdmXPJ6QC2KDAoeL35nuiSAYBHGesFNcP.png)
+                - sucrose
+                    - formation
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/NO9PZMxJaN3NPdiOGbeOMXIKV4SiyuDdPfL3PKCZ9BNRi0pLpxICCMGVE5vFFYd-VHuErumWgq-f54ws9qhRaRGn0AfYZZ4wRCpTErXFTikWAqkL4mfvCsJI-wQHEAMs.png)
+                    - bonds→$\alpha$ 1 $\beta$ 2 glycosidic bond
+                    - consists of>>>
+                        - $\alpha$ glucose
+                        - $\beta$ fructose
+                    - properties>>>
+                        - unreactive
+                            - how→both functional groups are involved in bonding
+                            - properties→non-reducing sugar
+                    - uses→transport molecule in plants
+                        - purpose→unreactive
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/UeVqtFRMmZ_Yq5Cf5yN3FpXDx53PepB28Q6HV1M2B3Ul-uldSNqTnWdHpf0zMcW-NZTqS5zvHv2BKCy2XT5SfzBFq7j69dlv6xh-Epom0yQtnPYoC9Cr-kvYTjcO1a5N.png)
+                - lactose
+                    - bonds→$\beta$ 1 4 glycosidic bond
+                    - consists of>>>
+                        - ($\alpha$/$\beta$) glucose
+                        - $\beta$ galactose
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/tt4T3OdfSSsjO2Bds5d-A4qzfjdwmRgDgxFG-APU5VvGqW3mrylCzUpNOC820qKjBonhbiiD8tUg5Vod4JPE22uoVobxcVozsC7J19cFMzV0Qg-IKrDb3ZnUQ0cPc2GW.png)
+        - polysaccharides
+            - examples>>>
+                - starch
+                    - consists of>>>
+                        - amylose
+                            - structure→right-handed helix
+                                - how→CH2OH side group causes the bend
+                                - bonds→$\alpha$ 1 4 glycosidic bond
+                                - diagram→![](https://remnote-user-data.s3.amazonaws.com/GAV47zHSrhzlvLLv8NcFFhwJflCSJKZUvkw3LyTHRDLZtBC1CSELlgAIros5jvtvkk8ghYeGSQUVAmuMw3iZiYPzs2TnzHRTFnniKAhkOP7Yxs6zGrgjTtB_FAdvbPdZ.png)
+                                - why→condensed for storage
+                                - forms a amylose iodide complex with iodine to give purple color
+                        - amylopectin
+                            - structure→branched
+                                - how→side chains due to $\alpha$ 1 6 glycosidic bond
+                                - bonds>>>
+                                    - $\alpha$ 1 4 glycosidic bond
+                                    - $\alpha$ 1 6 glycosidic bond
+                                - diagram→![](https://remnote-user-data.s3.amazonaws.com/LEQZ5V0d0ERI-b0UjNSokJnUL7FMbr7ew-bQdIL8Z1qujP0g9kjAZdt1-bw0LP8T7vIHEUK-POmHPyByq2jf2mh_o19y7zflDSIA-KDJToC-a_ZbZhacafyywzJSECNf.png)
+                                - purpose→condensed for storage
+                    - monomer>>>
+                        - $\alpha$ glucose
+                - glycogen
+                    - structure→branched
+                        - how→side chains due to $\alpha$ 1 6 glycosidic bond
+                        - more branched than amylopectin
+                        - bonds>>>
+                            - $\alpha$ 1 4 glycosidic bond
+                            - $\alpha$ 1 6 glycosidic bond
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/oStw-alT5PfOb3N3TS9o_7eDuHEOCD4LJ2X2xkCIUhHcglGDWjBh-p4YNOtqW5INog6AEhQHuZiFh1uWrLTHkFAeGJQv3oBixSu-7m3UtVxSlmML1u9o8uA3L1IJyMho.png)
+                        - purpose→many ends for rapid enzyme action
+                    - monomer>>>
+                        - $\alpha$ glucose
+                - cellulose
+                    - structure→straight chain
+                        - how→CH2OH alternating sides due to $\beta$ 1 4 glycosidic bond
+                        - bonds→$\beta$ 1 4 glycosidic bond
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/0sTb-kK8Vm00VAnfCpOnI2X4tEeJTmnQZYbdc0VVGFB7ivovdg3Ho2fBAjTN_LuBTTYnN6dTNIKIm-l-6Oeh9u5ELoA21lw_zgGVOo1IRATQ5zHWfPiBLLzgGoiLVsD_.png)
+                        - purpose→allows for parallel chains which facilitates many hydrogen bonds
+                        - forms→microfibrils
+                            - forms→fibers
+                                - diagram→![](https://remnote-user-data.s3.amazonaws.com/JjTeQmYoW5XSpJ9QZTjQoGx5C2aQbKpuirzQlJm6JZi4yrLqgdZxBK71VTV5wJx7MoggjH5-ODfo4hQ12u7wLT6muHMELt-ALFUT6GUqTh70AyonDI5LbllF_-lgMg6I.png)
+                    - monomer>>>
+                        - $\beta$ glucose
+        - bonds>>>
+            - $\alpha$ 1 4 glycosidic bond
+                - diagram→![](https://remnote-user-data.s3.amazonaws.com/a2Ig_79AcAv5CMTX5RS2HakXgGDfkHDxO1nU8knJuna_YX9017tfgz4ExfJ83dsFieG3xznbHvk-HgZNP9TmRd7TX2xAoI1H2GYks5RY8d33etoM0ftRK7wIKJ6mRGmH.png)
+            - $\alpha$ 1 6 glycosidic bond
+                - diagram→![](https://remnote-user-data.s3.amazonaws.com/dW74P0Jhc0J7G31-TlAihCKxcCTnnkixEy5tH888A1Ma_ybeqPxs8riunNE9iyKLKZD0cQg6G8SJnH-XoDSbLOhyx8vCPijio0PPQxkUYwOcvOQmFbI-V5fD6eO5QEeB.png)
+            - $\beta$ 1 4 glycosidic bond
+                - diagram→![](https://remnote-user-data.s3.amazonaws.com/gEfpqneqF7j8O8YWmlJhsgguyhVxJiqfXrsVMMVrdUxZBnms9uJumEXQS5w7FQwY3eybHxzXkMdjTz6z63m2JdH_Ed1kLxGmGR-wLULzpb9Anp0es3urlXnGe736pi-U.png)
+                    - alternate→![](https://remnote-user-data.s3.amazonaws.com/vHXTH1aTtgQXVw9ekXeieDbgRv6rnblgEZNUzg5o7TfFIqq-eZ1W-Z_gYr7KTEXI6Gt6BtWtkVZ5q67N2zQrODf1q7deyGkMmfEhlTK4LuFKU7oh33ouyDavAuiIEcst.png)
+    - nucleotides and nucleic acids
+        - nucleotides
+            - structure
+                - consists of>>>
+                    - pentose sugar
+                        - examples>>>
+                            - deoxyribose
+                                - diagram→![](https://remnote-user-data.s3.amazonaws.com/bsVWFy-9bshzLNH92A9pjuMOhIsYiNRb6BYogcgr3_PRSIB6F263GsHbIljZsXURazijPA5A6BVXSs1ea2CuXrfEFhEXYWOqI1uTfKqGx7atGSMHrYE9Iqj9hu-GXNJG.png)
+                            - oxyribose/ribose
+                                - diagram→![](https://remnote-user-data.s3.amazonaws.com/sU1_rD5BPPVbLUlnJyIGBBS3IWd0FdtQ6LZhIeCgN3YFEkgVwB1jFwHChj4wVlWYI4NEG-SfnnAdU_PTE89TaKyIuPgFhvSQHiOOTqkagpwPizpqowKHio8ggQru7c4G.png)
+                            - differences>>>
+                                - deoxyribose has a hydrogen instead of hydroxide group attached to the 2nd C
+                                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/aEdoSnzG1xw8_0FN9cfq6e9OI_5MAqe7anWz6Cp33ClXV8H-lUFukDPAatQy830j5YrOYvgDCHGQUdXGvkPrcFgGO1qUeTMVYraa0eYm46dWoomE1whyQH6zsRKNgbAA.png)
+                    - nitrogenous base
+                        - types>>>
+                            - pyrimidines
+                                - # of rings→1
+                                - examples>>>
+                                    - cystine
+                                    - thymine
+                                        - exclusive to→DNA
+                                    - uracil
+                                        - exclusive to→RNA
+                            - purines
+                                - # of rings→2
+                                    - examples>>>
+                                        - adenine
+                                        - guanine
+                                        - mnemonic→PURAG
+                        - complementary pairing
+                            - adenine↔thymine/uracil
+                                - number of hydrogen bonds→2 hydrogen bonds
+                            - guanine↔cystine
+                                - number of hydrogen bonds→3 hydrogen bonds
+                            - mnemonic→AT2-GC3
+                    - phosphate group
+                - types>>>
+                    - deoxyribose nucleotide
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/2FsA2igrc4gWT2n2pPkCb34DfiYKQ7wt6qXq7F7UDkXUkHl3O_pedeOMXz83dW85_aafzaxvTtwKxlg3YIawQuV4_wHfF59zQDkcurInFEkimPbvwxTVUFco0cYWU4EM.png)
+                    - ribose nucleotide
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/lDo7mmawDYskPCdR0yF_bFWEehGBaPwLc43Myfk8aktMbokE1FGna0iTLy1Syy-GOwY7AUagJjweTGgfCt6VKHbMmZdAj9j_ML-S5oyx6WSd2AIJUd3ndvaVi0A6R1Iq.png)
+        - nucleic acids
+            - formation
+                - diagram>>>
+                    - ![](https://remnote-user-data.s3.amazonaws.com/lwS6MDBmDLSmcOCzGV_X_017QvsRK4qab9wQZQxSq33x4uJHds3IaE_DIta0goEMOCZPij07ohePwbwHj54n3fc0ea263bMNhult9DJtFxkWRH60RVJO0YMqo_eToxmk.jpeg)
+            - structure→consists of nucleotides bonded to form a sugar-phosphate backbone
+                - how→phosphodiester bonds
+                - purpose→strength due to permanent phosphodiester bonds
+                - bonds→phosphodiester bonds between phosphate and sugar
+                - diagram→![](https://remnote-user-data.s3.amazonaws.com/WXy4qQsbYZFYM5ZUB7VNIG5c38DfEDqSZ7rH1g3pkvxaTGHKIgV2evdmjsskcTGnpxuYZ7wTy6vFsg_gQXhkHXFT8wLEnWaJlCWTz8Vxw3rrYJOYvOCcchTiGxxnP1cr.png)
+            - examples>>>
+                - deoxyribonucleic acid (DNA)
+                    - structure→double helix
+                        - how→hydrogen bonds between chains
+                        - purpose→weak hydrogen bonds between chains allows for easy separation but is collectively strong
+                        - bonds>>>
+                            - phosphodiester bonds
+                            - hydrogen bonds between nitrogenous bases
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/fkE1pYpDzNfdb_rrHozeDKXqeSgYcdmlcIaLD8-1tesqzdriwmmWg8hT6cKSUxBNPu_BOvBK1_swwPPzlJXubHZJyBu6vY7AUoQ-bCdFqPjGpiJikCHWr1ZUJr0h3pms.png)
+                - ribonucleic acid (RNA)
+                    - structure→single helix
+                        - bonds→phosphodiester bonds
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/7y1vynXODVs2oNPKf4lY0S_Xr8lVZZBvh_TKvA2GgSIVSmLDy46Khh9PKvUanoJ8E1Dogm1Lm64jue_QVUmXPUwKWM9FjSgwuvuxbdNtGJk1fgkEXwWLIzUgG_A71wMM.png)
+    - peptides
+        - amino acids
+            - structure
+                - consists of>>>
+                    - amino group
+                    - carboxyl group
+                    - R group
+                        - ![](https://remnote-user-data.s3.amazonaws.com/kf18ONXJ9WZGEpR0keJ20KdPpI4GKFEU2xFfa-KCc0WSYIiuvOI2wJELNDGu2kWrP355XQoB3nqIibtwDsbE66Pqia_DpxsEw2iQcDHVEW14w8CO9OyEKcyEyMmC8p6P.png)
+                    - central carbon
+                - diagram>>>
+                    - ![](https://remnote-user-data.s3.amazonaws.com/vMNAgMTFG8uLu-FngZfmAKCPJfvxJGRThRJsXg4CLRPQzcF9NCr681-EfzWsYK-dn83IHs-295CHD8guPMwPslWkvhAC0Pz9bHlelwlQYODDlQR0n6UYaieRLQ83Wwm3.png)
+            - properties
+                - amphoteric
+                - zwitterion
+            - uses
+                - buffer
+                    - how→amphoteric
+                    - example→tears
+        - proteins
+            - formation
+                - diagram→![](https://remnote-user-data.s3.amazonaws.com/5D5HH4QSDahu9AnLlmdLnyr-X9bwJPQQbPYzt8Ni2FV-xav_k_VJs99QrdwO9KFz_Wu_b4yz9ZBAOhjBmh6D5_hiDAVzK6eiDTDTC5tcgsAfKqmnQ3MV_j7SkzZnQUxG.png)
+            - structure→chain of amino acids with R groups
+                - primary structure→sequence and number of amino acids
+                    - bonds→peptide bonds
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/cO4EIOofCLpQ35uhsSWzUJ3ZmZIM6tGOyNGHS2XNaKr3MKivNbGqYeNPD-9JLv6HaXxQ6R2IPQ9W2jycLR4FLDyWHuEJYc12W5Qjqk1DsWQMIwUONust_vkbwfV-B-6y.png)
+                - secondary structure→repeating patterns formed from hydrogen bonds between backbone elements
+                    - patterns>>>
+                        - $\alpha$ helix→right handed helical pattern formed from hydrogen bonds between every 3.6 amino acids
+                            - diagram→![](https://remnote-user-data.s3.amazonaws.com/4Sa4icByznWC4c0n547srXTSphwm47qodSC68cD2XY2e4vFFwfdXJGruXcGsWWdIwhqwMxKvHv8ye90cCW_s4n70-d63PC7WSJ60YHFf9iT8jriz3XdtJKvgOsB4q88Z.png)
+                        - $\beta$ pleated sheet→parallel chains formed by hydrogen bonds between them
+                            - diagram→![](https://remnote-user-data.s3.amazonaws.com/qg9Gu97yv7NcdF0WkDpOn7MCQA0YMVSTEwz4MwppNc_EANkDgfq8i_oBu62EvssgowFCa80vzJbCYYpafVVZMdGDvsCZL7Zn9MghZB6cNst8KQn3ZcW8ZfUiWs0bcjzX.png)
+                - tertiary structure→complex and precise 3D shape and folding of the polypeptide which is maintained by the R group interactions 
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/05Ilze-4VQvgcdUDkNwUl958qJCGe4_HBQzvH5TZgWl50DrzxZciZ-B_j91PdpaLVicRasKV_B4IfcxSOzQrzvNqcdBL_mCyRY6BtOb3xf5wy3lkl9fCJ_O-5zXK988c.png)
+                    - bonds>>>
+                        - hydrogen bonds
+                            - diagram→![](https://remnote-user-data.s3.amazonaws.com/NwIys0reER4-wyo-LtM2zg9LLqX-6_gR172Vjrm88gYaStGkF1W951Y2nB_O9NdGAtenrTfTh5i0KKnw5PSUVxlDtm-g2Rsxd2xsDnahMT3vl7H9ZfwVd_O_1LdhTzhr.png)
+                        - ionic bonds
+                            - diagram→![](https://remnote-user-data.s3.amazonaws.com/f5IFe5z1J_Aixp6KRpoM6UGN01RKBOwmphe0xB5wA47qz3kk7cK-MIJLyOKjrIi1ht2L_m0cBZc7Mf6YpQ_FnspguquQkJiire6rpvu7327VAaD8ROSm79w-GLyapPRC.png)
+                        - disulphide bonds→covalent bond formed between sulphers of two cysteines
+                            - diagram→![](https://remnote-user-data.s3.amazonaws.com/VS-uW8lBjShsr6MgZlSJWxeUk3GWL3vE381Pam1I2MHSh2NqoECxO3UpwcVimKhrE3_dZhqEMOV77Gf8ny3hldDVPQh7ZyHmyZJ-3gUBcqBGXuoYrMicaJr9aGI6B_Zq.png)
+                        - hydrophobic interactions→to avoid their aqueous surroundings non-polar R groups group together
+                            - diagram→![](https://remnote-user-data.s3.amazonaws.com/cEUCQI7yMvh9wiJqfrPbRzT-Q-ud4d-u2gsFuiBT2i-a4Cw0N3U7uRhRg0tbeAcG1lQIZe1THW-2hTpj83WCOTr8xsVXLJ-MycGHStHYYsmgK0WbtLarHXjfAM0Wn7Hz.png)
+                - quaternary structure→shape maintained by the interactions of multiple polypeptide chains with each other
+                    - bonds>>>
+                        - same as tertiary structure
+                    - examples $_{check~references}$
+                        - haemoglobin
+                        - insulin
+                        - collagen
+                - prosthetic groups→non-organic group that is attached to an amino acid
+                    - example→haemoglobin $_{check~references}$
+                - N terminus→end of the polypeptide with amide group
+                - C terminus→end of the polypeptide with carboxyl group
+                - examples>>>
+                    - haemoglobin
+                        - type→globular
+                        - consists of>>>
+                            - 2 $\alpha$ chains
+                            - 2 $\beta$ chains
+                            - haem group attached to each
+                                - why→to forms temporary bonds (ligands) with oxygen
+                                    - why→to transport it in blood
+                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/-DTMbfuBSVlvO5yK_fDZhrZRsqO4522F6Oft0_DYOfEKPsP62CMWM9ECRVaQqUvN9q30k0roMZ3AY6GwAcgjUdW9sLx5_AuX0vwaFA0V35nxkzGvL_Ile1qdtyScgbSe.png)
+                    - collagen
+                        - type→fibrous
+                        - primary structure→every third amino acid residue is glycine
+                            - therefore→facilitates more hydrogen bonding between backbone elements due to glycine's small R group
+                                - therefore→facilitates the formation of a left handed triple helix, tropocollagen
+                            - quaternary structure→forms a left handed triple helix, tropocollagen, with two other collagen chains
+                                - how→hydrogen bonds and disulphide bonds between chains
+                                - purpose→increases tensile strength
+                                - diagram→![](https://remnote-user-data.s3.amazonaws.com/FMbTvC6g5wteYxlMlKnmowENAoVyjmIt5N2aKePj-dq9tZlboYG4zjro6jygo4XdAgPlocuIJlZMtNq_O26zx3e9u5JBBXrFW3vWYb6dGmJA2a0bcXC1-5Q05qEt5Ejg.png)
+                                    - why→to form collagen fibers
+                                        - diagram→![](https://remnote-user-data.s3.amazonaws.com/JOiKYj-MGw9wiowmmt_y24_hN2GvZU6uc0yvzYloJeXnRHt7PItsrYylWqjhnFVrn71S6OfOBuj-ZIuGmSG4_CRZPlodk7Wfj8kB83Jvgr_gE7FHiGFZmFpInEDEjA7-.png)
+                    - insulin
+                        - type→globular
+                        - structure
+                            - quaternary structure→consists of an $\alpha$ chain and a $\beta$ chain that have disulphide bonds between chains
+                            - diagram→![](https://remnote-user-data.s3.amazonaws.com/w6aoE11pyWnajG-yTEpQbcEKDWQXfs7lNvp-x2mBt7R5IEYODs6owwN4h1XUarYUYb-KmEumpQvPQfF7SmXxHpyFKbFHXJbyQJcw2IBow2VrbRLBVyKwWhrPwJVkq9ct.png)
+                - types>>>
+                    - globular→have their non-polar R groups shielded by their polar R groups resulting in them being soluble
+                        - type of structure→mainly tertiary
+                    - fibrous
+                        - type of structure→mainly secondary
+    - lipids
+        - fatty acid tails
+            - structure
+                - consists of>>>
+                    - carboxylic acid group
+                    - hydrocarbon chain
+                - diagram→![](https://remnote-user-data.s3.amazonaws.com/B7zpUbEYwAaqW4wKmTC8fhiOurlGAmGCHdfgiahDGyXqb8xSs4zVrkLJ9-Grw5QO8hNGu1WmO1HQQCnCXxYf57wXDTfbOHJtsl-tU7HP_jWv7rnXtdOZNeL8epUpgRAj.png)
+            - saturated
+                - structure→no double C bonds
+                - diagram→![](https://remnote-user-data.s3.amazonaws.com/3QZYy9RqzP2iwBc2JAyjLpckpLNOvSbLLdeNdlejEvXM8803uyIlqauVhE3QmTHcUGt3-57zrtVJgux9UEi219m5uc9duD4oRyvt3Ai3N_Dk4Bep1j3r6o2FJmXAMkmM.png)
+                - lipids with saturated tails take up less→volume
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/8qhgi-nf1s88TOEtNBEFokA90s7e-IBGNLYmhCpDOa4NyhP1_iid9AxkuHq2qpMrzAsQaE0zYSMPpfLk6D4cGGONB1bdbEy7Zoi0V78Go38dwDpGL6_Bi7V4yGvO7-gb.png)
+                    - state of matter→solid
+                        - known as→animal fat
+            - unsaturated
+                - structure→at least one double C bond
+                - diagram→![](https://remnote-user-data.s3.amazonaws.com/4ITPkx_3WVTIIAmVKFPn6WHTSAK4UGZ-9c_qiFpYmTNheqSbXJ65R3mtNAnBbfTpceBpi5KKUAkKjlYCFSCt1l4emXv8fdgJK0gnyUp-vK2e7jnkxNcgCA7Fv_T-FJNN.png)
+                - lipids with unsaturated tails take up more→volume
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/hAhIaCZmCvm-1pcnvRopty_iB6WO-Ul58S8LKOyFvZbitC9zapoe5m4VP2bEXGud6in1Sl6vAhgzlWQnVvBMvoKlC848TiWV0j5GL22QgMw-HRR15gQcl1pBiFn3FCpo.png)
+                    - state of matter→liquid
+                        - known as→oil
+        - triglycerides
+            - structure
+                - formation→![](https://remnote-user-data.s3.amazonaws.com/hMwk5rV9MTaqS8XMQnZUi9U1agyWvpXt5ptzoJluuRM7kIIQgb_ULlmOUwMn9DL-1XViBkR0rmlDQeysRopLblKzRiJjrxs84U1uK_76RfRoX5MW6GFZVCXdcF8tae7Y.png)
+                - consists of>>>
+                    - glycerol backbone
+                    - 3 non-polar fatty acid tails
+                - diagram>>>
+                    - ![](https://remnote-user-data.s3.amazonaws.com/a81hsvJBaymJ5XTyqeR74TGVHLqqIDGRPb64CTgpZOVRnH77pEWcS0HDfezapQl8ApkdDC3f-TYIOLEZFn5x5jK2cs69vtaUDbhNkpCv0Ls7rKW0ROgLLwsC0Ru4nLZD.png)
+            - property>>>
+                - non-polar
+                    - purpose→does not affect osmotic pressure
+                    - properties→unreactive
+                - high energy density
+                    - how→high ratio of C atoms to H atoms compared to starch
+                        - how→C-H bonds are energy dense
+                    - properties→many water molecules being released in respiration
+                - low density
+                    - how→spaces in-between fatty acid tails
+                    - properties>>>
+                        - insulator
+                        - mechanical shock absorber
+                            - how→able to be compressed easily
+            - uses>>>
+                - energy store
+                    - how>>>
+                        - high energy density
+                        - unreactive
+                        - non-polar
+                - buoyancy
+                    - how→low density
+                - water proofing
+                    - how→non-polar
+                - store of water
+                    - how→many water molecules being released in respiration
+                - protection
+                    - how→mechanical shock absorber
+                - insulator
+        - phospholipids
+            - structure
+                - consists of>>>
+                    - glycerol backbone
+                    - polar phosphate-choline head
+                    - 2 non-polar fatty acid tails
+                - diagram→![](https://remnote-user-data.s3.amazonaws.com/lFBAI6JB-QdgOe_wflZRlSQkVU1wyFQGQ64NdX0pq2oACfQH8tCb1ezQyLQAMt4dLQ86S7byxwjHhwO6huCeDAN2_fqc4pkEG1BXApB8A-Q_SLR6G7zzCDir8vIwU-EE.png)
+            - properties>>>
+                - amphiphilic
+                    - how→contains hydrophobic tails and a hydrophilic head
+            - uses>>>
+                - cell membrane component
+                    - structures>>>
+                        - bilayer
+                        - micelle
+        - triglycerides and phospholipids are→not polymers 
+    - macromolecules>>>
+        - polysaccharides
+        - proteins
+        - triglycerides
+        - phospholipids
+        - nucleic acids
+    - tests
+        - quantitative vs qualitative
+            - quantitative→determines if the substance is present
+            - qualitative→determines exactly how much of the substance is present
+            - semi-quantitative→determines how much of the substance is present compared to another sample
+        - examples>>>
+            - Benedict's
+                - tests for→reducing sugars
+                - methodology>>1.
+                    1. add sample to a test tube
+                    2. add an equal volume of Benedict's reagent to it
+                    3. boil the test tube in a water bath for a few minutes (3) 
+                    4. observe the colour change or cloudiness of the solution or the height or mass of the precipitate
+                - results
+                    - colour changes (in order of increasing sugar content)>>1.
+                        1. blue (no reducing sugars present)
+                        2. green
+                        3. yellow
+                        4. brick red
+                    - height/mass of precipitate>>>
+                        - increasing with sugar content
+                    - cloudiness of solution>>>
+                        - increasing with sugar content
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/CyBBV_iia9C79h8a7jQaY1vK92_i_jjsFiOe36g8htxbIbZGjcCpNhCU7SCY2p5Jj_5Ab78V-a9sAGfLz3Y5XYt8GF8qTHth5_j0MBE1E7StZSDl4nmlrny6xBumCq9Q.png)
+                - properties>>>
+                    - semi-quantitative if benedicts reagent is in excess
+                - derivatives
+                    - hydrolysis then benedict's
+                        - tests for→non-reducing sugars
+                    - amylose then benedict's
+                        - tests for→starch
+                    - colour changes will still occur if {{reducing sugars}} are present
+                - improvements>>>
+                    - use of a colorimeter 
+                - principle→sugars reduce the copper (II) ions to copper (I) which forms red copper (I) oxide
+            - iodine
+                - tests for→starch (specifically amylose)
+                - methodology>>1.
+                    1. place a drop of the sample on a tile
+                    2. add a few drops of potassium iodide to the sample
+                    3. observe colour change
+                - results
+                    - positive→purple colour change
+                    - negative→remains brown
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/kjvKmay7LizohX8ihxUv-rjSKVPL-6FT9jY4HvqJVQKmNu21owLCeEoMI2kUryBa5j_MpXzcVP0RvLyDz5kEZEHTeZFI9nWvHbbq8QX1mlvw60_WlHCs4_xNl5m8GAS_.png)
+                - principle→iodine forms a purple amylose-iodide complex with amylose
+            - biuret
+                - tests for→proteins
+                - methodology>>1.
+                    1. add sample to a test tube
+                    2. add potassium/sodium hydroxide and a few drops of copper (II) sulphate solution or an equal volume of biuret reagent (a premade mixture)
+                    3. observe colour change
+                - results
+                    - positive→purple/lilac colour change
+                    - negative→remains blue
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/YyFrlSUc6cFEV3M2AFy3RRJ6ORJsgX5UBkxIGTOJgV97Paoy8sjzwbdYob_XLNnBy67UiJRelmhj8l_CyciHZrxamu2qbftdu-xboDrPGKEecrIkADxHWscIzzknDeRG.png)
+                - principle→copper (II) ions react with the nitrogen of the peptide bond to form a coloured complex in an alkaline solution
+            - emulsion
+                - tests for→lipids
+                - methodology>>1.
+                    1. add a sample to a test tube
+                    2. add ethanol to the sample and shake
+                    3. observe if a milky emulsion forms
+                - results>>>
+                    - positive→milky emulsion forms
+                    - negative→solution remains clear
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/QgvgiBnogoF5EzvrP1M94E_d4KZVMzagHfLHvww-xAVUuLVnv3hnlWvmXOugWLLKHgEKEM19qo0mVoF6DU0Cn4vwEo3pCirqvuh4N3HCO2UQyR-UonRbE39M2B_J9dEO.png)
+                - principle>>>
+                    - lipids dissolve in ethanol to form a milky emulsion
+            - grease spot test
+                - tests for→lipids
+                - methodology>>1.
+                    1. add a drop of the sample on a piece of paper
+                    2. observe if a greasy spot occurs
+                - results>>>
+                    - positive→a greasy spot occurs and does not wet paper
+                    - negative→a wet spot occurs
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/-UA03wadEN6-FVvItkbU3vtmmQZc7SpYpRCzw8Ga1JhhIYtabGWcBqsEOe46ZmlXOmR-EqK1zQ0T0T85sKVGB3rNuWnZu3iOq-AT7Mu6uIYK-PKv-OGClnNl3IDpisoh.png)
+- water
+- enzymes
+    - structure→globular protein
+        - active site→the location that has a complementary shape and properties of the substrate and therefore where it bonds
+            - specificity→a particular enzyme can only work on a single or several similar substrates that may share a particular bond
+            - catalytic amino acids→proteins whose R groups form temporary bonds with the substrate
+            - scaffolding amino acids→proteins whose R groups provide support and help with the positioning of the catalytic amino acids
+    - properties>>>
+        - biological catalyst not used up in reaction
+            - therefore→lowers activation energy
+                - activation energyenergy required at the start of a reaction to start it>>>
+                    - diagram→![](https://remnote-user-data.s3.amazonaws.com/yzfbQKTQZJqb8K5TwmDtuN26mcNfQ9Lidi9up29HebwM-acagKVFBRhVolpgA4VzAjxKBcP7dynEXt4XYArHFwjRMaO26AhxKSbrfluzH66zLkOIpPnZT2_p78gQmfxA.png) 
+                - how→brings substate into the correct orientation, environment and eases bond formation/placing pressure at certain points
+    - vocabulary
+        - turnover number→maximum number of substrate that can be converted to product per minute 
+    - models
+        - lock and key→active site has a precise and exact complementary shape to the substrate
+        - induced fit→enzyme and rarely substrate changes shape as they bond together
+            - properties>>>
+                - lowers activation energy required and increases rate of reaction
+                - allows for dynamic recognition
+    - enzyme cycle>>1.
+        1. substrate and enzyme are separate
+        2. bond together to form the substrate-enzyme complex
+        3. stress the enzyme places on the substrate causes it to form the substrate-product complex
+        4. product no longer fits within the substrate and is therefore released so that the enzyme can be used again
+    - factors>>>
+        - temperature
+            - effect>>1.
+                1. initially as it increases it causes an increase in rate of reaction
+                    - how→kinetic energy increases causing more frequent and high energy collisions
+                2. an optimum temperature is achieved where the rate of reaction is at its highest
+                    - optimum temperature→temperature at which rate of reaction is at its maximum
+                3. beyond this the rate of reaction dramatically decreases
+                    - how→denaturing of the enzyme causing the change in shape of the active site
+                        - how→hydrogen and ionic bonds are disrupted at high temperatures
+            - Q10→rate of reaction at X + 10 divided by rate of reaction at X
+                - usually→2
+            - graph→![](https://remnote-user-data.s3.amazonaws.com/KeXDhB3Q6Epranx3ZQ0xzkO8Z8zs1lnBii_Jr6Vs7P4Ux_9kk3oO4_s-vt_bSZZ7zda4FcPxjXUcJM-47fb7xJTMY4cW5SbnkvLJFd7lVnAfPsX5e4tQLfb3FcJJ4AAX.png)
+        - pH
+            - effect>>>
+                - enzymes have an optimum pH where enzyme activity is at its highest
+                - Increasing or decreasing the pH will lower enzyme activity in a bell shaped curve
+                    - how→pH affects the ionic bonds of the R groups
+                        - how→at high pHs the acidic R groups of the amino acids will ionize and basic R groups to unionize and vice versa for low pHs
+            - graph→![](https://remnote-user-data.s3.amazonaws.com/Yso_KkX9By-5YNV3Ei0LpAHPiltzTXZGw02PRkijWoJGwaTNe2QWz_iYCQhteFJ7vsFRB2bdCHwr9Z-e9i9fsm1hRhhz_NzXMpYHXpiXiqYyEZnqKKyAHrl6UDi5MeFI.png)
+        - enzyme concentration
+            - effect>>1.
+                1. initially increasing enzyme concentration increases rate of reaction
+                    - how→increases the likelihood of collisions
+                2. If the substrate is not in excess then the effect of enzyme concentration increases will be reduced at higher concentration
+            - graph→![](https://remnote-user-data.s3.amazonaws.com/ZAZt_LzFKwqTrjRcp06XApQKDvyL5hykPf91RnWwd8gz93zmdso1r1dh80HG8iSYxHcABDksKCzMxv2-JcNOpa2iPHBHu_fioG0mUdFFrB07I0B24XNw8jdBw2HEoGBs.png)
+        - substrate concentration
+            - effect>>1.
+                1. initially increasing substrate concentration will increase rate of reaction
+                    - how→increases the likelihood of collisions
+                2. it will no longer increase when Vmax occurs
+                    - how→all active sites are occupied
+            - graph→![](https://remnote-user-data.s3.amazonaws.com/AdRVe3n-7-4Ck6zZx6rXyPIAqcEXSLgBQlmQDyXv6uqY-ZFZtY_KjRePzSmfILuNzB5s2n0Ze7fBfiUrmTqdxW0ehik-zbZ6D8YYEin-I87bvw9RZgP9BEE1fy_WrHWV.png)
+        - enzyme inhibitors
+            - types of inhibition>>>
+                - competitive→inhibitor shares a common shape and chemical properties to the substrate therefore this competes with the substrate for available active sites so prevents substrate binding
+                - affected by
+    - 
+    - 
+- cell membrane
+- cell structures
+- DNA
+- 
+- 
